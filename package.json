@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "@apollo/server": "^4.11.3",
     "axios": "^1.8.1",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "graphql-tag": "^2.12.6",
+    "jsonwebtoken": "^9.0.2"
   }
 }
